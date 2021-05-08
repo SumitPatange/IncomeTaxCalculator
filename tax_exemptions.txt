@@ -1,0 +1,8 @@
+Std Deduction:50000
+HRA:100000
+PF(80C):80000
+PPF(80C):0
+Home Loan Principal(80C):40000
+Home Loan Interest:200000
+Medical Insurance:20000
+NPS:50000
